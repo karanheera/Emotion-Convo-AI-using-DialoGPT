@@ -120,5 +120,4 @@ For any questions or inquiries, feel free to reach out to the project maintainer
 **Karan Heera**  
 - LinkedIn: [https://www.linkedin.com/in/karanheera/](https://www.linkedin.com/in/karanheera/)  
 - GitHub: [https://github.com/karanheera](https://github.com/karanheera)
-```
 
